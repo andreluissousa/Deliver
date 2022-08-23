@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "js2M82LKOP7mdn61tq14BSLbzcV8brCFB2XpP4y3HlPeXgHJL8JwYyK7ICnyIKECKU0dV3e08J8t0dMoHfrQ8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\RiderProjects\\Deliver\\Deliver\\Deliver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512",
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Desenvolvedor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
